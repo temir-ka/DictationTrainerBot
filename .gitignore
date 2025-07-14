@@ -1,0 +1,16 @@
+# Python cashe
+_pycashe_/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# VSCode settings
+.vscode/
+
+# Env file with secrets
+.env 
+
+# Logs and temporary databases
+*.log
+*.sqlite3
